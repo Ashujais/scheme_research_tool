@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+unstructured
+openai
+faiss-cpu
+python-dotenv
+requests
